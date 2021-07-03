@@ -29,6 +29,12 @@
 
 ---
 
+# Descargar librerias del proyecto
+* En este proyecto utilizamos la libreria **qrcode** la cual puede ser instalada desde la [pagina web](https://pypi.org/project/qrcode/)
+* Para instalarla, abrimos una consola de comandos como **cmd** y escribimos el siguente comando **pip install qrcode**
+
+---
+
 # Ejecutar el projecto 
 * Descargamos los archivos del repositorio y los extraemos en una carpeta a parte
 * Ejecutamos el archivo con extension **.py** 
@@ -37,10 +43,5 @@
 * Si al momento de ejecutar nos dice que falta algun archivo, libreria, etc, los  descargamos
 
 ---
-# Descargar librerias del proyecto
-* En este proyecto utilizamos la libreria **qrcode** la cual puede ser instalada desde la [pagina web](https://pypi.org/project/qrcode/)
-* Para instalarla, abrimos una consola de comandos como **cmd** y escribimos el siguente comando **pip install qrcode**
-
----
 # Listo!
-* Ya estas listo para poder ejecutar el proyecto en tu equipo
+* Ya estas apto para poder ejecutar el proyecto en tu equipo
