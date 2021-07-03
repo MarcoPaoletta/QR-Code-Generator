@@ -1,6 +1,9 @@
 # QRCodeGenerator
 * Programa para generar Codigos QR que pueden ser escaneados con el celular
 * Al ejecutar el script, nos va a crear automaticamente algunos ejemplos en la carpeta del proyecto
+
+    <img src=https://github.com/MarcoPaoletta/QRCodeGenerator/blob/main/generation.png>
+
 * De igual forma, lo importante del proyecto es que podemos crear uno sin necesidad de alterar el codigo original
 ---
 # Programa
