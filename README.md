@@ -36,7 +36,7 @@
 
 ---
 
-## Ejecutar el projecto 
+## Ejecutar el proyecto 
 * Descargamos los archivos del repositorio y los extraemos en una carpeta a parte
 * Ejecutamos el archivo con extension **.py** 
 * En el caso que nos diga con que aplicacion abrirlo, seleccionamos Visual Studio Code
