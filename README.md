@@ -30,13 +30,13 @@
 
 ---
 
-# Descargar librerias del proyecto
+## Descargar librerias del proyecto
 * En este proyecto utilizamos la libreria **qrcode** la cual puede ser instalada desde la [pagina web](https://pypi.org/project/qrcode/)
 * Para instalarla, abrimos una consola de comandos como **cmd** y escribimos el siguente comando **pip install qrcode**
 
 ---
 
-# Ejecutar el projecto 
+## Ejecutar el projecto 
 * Descargamos los archivos del repositorio y los extraemos en una carpeta a parte
 * Ejecutamos el archivo con extension **.py** 
 * En el caso que nos diga con que aplicacion abrirlo, seleccionamos Visual Studio Code
@@ -44,5 +44,5 @@
 * Si al momento de ejecutar nos dice que falta algun archivo, libreria, etc, los  descargamos
 
 ---
-# Listo!
+## Listo!
 * Ya estas apto para poder ejecutar el proyecto en tu equipo
